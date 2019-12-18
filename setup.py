@@ -9,7 +9,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 setup(
   name = 'rfid-squeezectl',
   py_modules=['rfid_squeezectl'],
-  version = '0.1.0',
+  version = '0.1.1',
   license='Apache',
   description = 'Control Logitech Squeezebox using RFID tags',
   long_description=long_description,
