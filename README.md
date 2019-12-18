@@ -14,5 +14,6 @@ This software is relying on https://github.com/ondryaso/pi-rc522.
 
 ## Develop
 
+    pip install bump2version
     bumpversion patch
     git push && git push --tags
