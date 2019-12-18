@@ -4,7 +4,7 @@ from distutils.core import setup
 setup(
   name = 'rfid-squeezectl',
   py_modules=['rfid_squeezectl'],
-  version = '0.0.0',
+  version = '0.1.0',
   license='Apache',
   description = 'Control Logitech Squeezebox using RFID tags',
   author = 'Bastian Bowe',
