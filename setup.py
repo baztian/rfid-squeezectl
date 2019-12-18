@@ -9,7 +9,7 @@ setup(
   description = 'Control Logitech Squeezebox using RFID tags',
   author = 'Bastian Bowe',
   author_email = 'bastian.dev@gmail.com',
-  url = 'https://github.com/baztian/frid-squeezectl',
+  url = 'https://github.com/baztian/rfid-squeezectl',
   keywords = ['rfid', 'raspi', 'raspberry', 'lms', 'squeeze'],
   install_requires = [
           'pi-rc522',
